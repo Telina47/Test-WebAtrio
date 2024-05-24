@@ -1,0 +1,21 @@
+# Ignorer les répertoires bin et obj
+bin/
+obj/
+
+# Ignorer les fichiers de configuration temporaires
+*.log
+*.tmp
+*.swp
+
+# Ignorer les fichiers compilés
+*.class
+*.dll
+*.exe
+
+# Ignorer les fichiers de configuration de l'IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
